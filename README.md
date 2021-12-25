@@ -3,4 +3,4 @@
 
 just another repository
 
-hi,priti,view to edit file.
+hi,view to edit file.
